@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LaptopCatalog>
+	<Laptop
+		Manufacturer = "Asus"
+		Model = "NM-423423"
+		SerialNumber = "SN234324324"
+		Price = "13999"
+		Condition = "Excellent"
+		OS = "Linux">
+	</Laptop>
+	<Laptop
+		Manufacturer = "Asus"
+		Model = "RD-42334"
+		SerialNumber = "SN8931280"
+		Price = "23999"
+		Condition = "New"
+		OS = "Windows">
+	</Laptop>
+	<Laptop
+		Manufacturer = "Apple"
+		Model = "MacBook Pro"
+		SerialNumber = "SN11312ADAGA33"
+		Price = "33999"
+		Condition = "New"
+		OS = "MacOS">
+	</Laptop>
+	<Laptop
+		Manufacturer = "Acer"
+		Model = "NM-99989"
+		SerialNumber = "SN9876556789"
+		Price = "10999"
+		Condition = "Used"
+		OS = "Windows">
+	</Laptop>
+	<Laptop
+		Manufacturer = "Lenovo"
+		Model = "NM-423232313"
+		SerialNumber = "SN23RRQWEWQ324"
+		Price = "18999"
+		Condition = "New"
+		OS = "Windows">
+	</Laptop>
+	<Laptop
+		Manufacturer = "Dell"
+		Model = "SD4234"
+		SerialNumber = "4324-234-23"
+		Price = "31500"
+		Condition = "New"
+		OS = "Linux">
+	</Laptop>
+	<Laptop
+		Manufacturer = "Dell"
+		Model = "PR331"
+		SerialNumber = "4234-423-43"
+		Price = "23348"
+		Condition = "Excellent"
+		OS = "Windows">
+	</Laptop>
+	<Laptop
+		Manufacturer = "HP"
+		Model = "WR-H44"
+		SerialNumber = "934574387"
+		Price = "17500"
+		Condition = "Excellent"
+		OS = "Linux">
+	</Laptop>
+	<Laptop
+		Manufacturer = "Apple"
+		Model = "MacBook Air"
+		SerialNumber = "094029340340"
+		Price = "41849"
+		Condition = "New"
+		OS = "MacOS">
+	</Laptop>
+	<Laptop
+		Manufacturer = "Huawei"
+		Model = "H432"
+		SerialNumber = "2940289"
+		Price = "9999"
+		Condition = "Used"
+		OS = "Linux">
+	</Laptop>
+	<Laptop
+		Manufacturer = "Xiaomi"
+		Model = "X42342"
+		SerialNumber = "SNN894230"
+		Price = "16499"
+		Condition = "New"
+		OS = "Windows">
+	</Laptop>
+	<Laptop
+		Manufacturer = "Panasonic"
+		Model = "P-423423"
+		SerialNumber = "5524234230"
+		Price = "21999"
+		Condition = "New"
+		OS = "Linux">
+	</Laptop>
+	<Laptop
+		Manufacturer = "Apple"
+		Model = "MacBook Pro 2020"
+		SerialNumber = "78756343435"
+		Price = "45999"
+		Condition = "New"
+		OS = "MacOS">
+	</Laptop>
+	<Laptop
+		Manufacturer = "Acer"
+		Model = "AC-31323"
+		SerialNumber = "A432467876"
+		Price = "13989"
+		Condition = "Excellent"
+		OS = "Windows">
+	</Laptop>
+	<Laptop
+		Manufacturer = "MSI"
+		Model = "M765-D"
+		SerialNumber = "3484535-8785"
+		Price = "23999"
+		Condition = "New"
+		OS = "Windows">
+	</Laptop>
+	<Laptop
+		Manufacturer = "Sony"
+		Model = "WD87-44"
+		SerialNumber = "43455534467765"
+		Price = "26799"
+		Condition = "New"
+		OS = "Windows">
+	</Laptop>
+</LaptopCatalog>
